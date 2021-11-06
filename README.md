@@ -13,4 +13,5 @@ Working on:
 Ideas to improve the game
 - Maybe adding levels where the snake has to navigate through a small maze?
 - Local multiplayer? 
+- Customisation of the snake colour?
 
